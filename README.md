@@ -1,4 +1,4 @@
-# Etch a sketch
-a simple etch a sketch
+# Meow Paint
+a simple painting website
 # How to play
-go to https://thecosmiccat.github.io/etch-a-sketch/
+go to https://thecosmiccat.github.io/meow-paint/
